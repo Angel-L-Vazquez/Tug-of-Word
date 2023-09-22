@@ -7,3 +7,10 @@ Tug of Word is a multipayer typing game where players compete against each other
 
 ## TODO
 - Create a visual Mockup of the game UX
+- Create a quick proof of concept
+
+## Proof of Concept
+- [ ] Show a solid background with text
+- [ ] allow user input which corelates with the text
+- [ ] Add a rectangle with a smaller rectangle inside it
+- [ ] the smaller rectangle will move alongside the user's input.
